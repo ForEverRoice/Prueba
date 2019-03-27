@@ -1,0 +1,93 @@
+header {
+  background-image: url('../img/fondo.jpg');
+  background-repeat: no-repeat fixed;
+  background-size: cover;
+  background-position: center;
+  padding-top: 30rem;
+  padding-bottom: 15rem;
+  margin-top: 5rem;
+}
+
+nav {
+  background-color: #6500de;
+  font-size: 1.5rem;
+}
+
+.carousel-indicators {
+  top: 150px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  color: black solid;
+}
+
+.card-text {
+    font-family: 'Dancing Script', cursive;
+}
+
+.card-title {
+    font-family: 'Germania One', cursive;
+}
+
+
+#titulo {
+  color: white;
+}
+
+h1 {
+  font-family: 'Germania One', cursive;
+  font-size: 5rem;
+}
+
+h2 {
+  font-family: 'Germania One', cursive;
+  font-size: 5rem;
+}
+
+h3 {
+  font-family: 'Germania One', cursive;
+  font-size: 3.5rem;
+}
+h4 {
+  font-family: 'Germania One', cursive;
+  font-size: 1.75rem;
+}
+
+h5 {
+  font-size: 2rem;
+
+}
+
+#carrucel {
+  margin: 0rem;
+  padding: 0rem;
+}
+
+button {
+  font-family: 'Germania One', cursive;
+  font-size: 1rem;
+}
+
+p {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+}
+
+a {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+}
+
+.fab {
+width: 2rem;
+height: 2rem;
+margin: 1rem;
+}
+
+.modal-title {
+  font-family: 'Germania One', cursive;
+  font-size: 2rem;
+}
